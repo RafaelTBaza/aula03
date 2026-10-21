@@ -3,39 +3,40 @@
 var mes = "janeiro"
 
 if(mes == "janeiro"){
-    console.log("Este mês é Valido ")
+    console.log("janeiro é um mês Valido ")
+
   }else if(mes == "fevereiro"){
-    console.log("Este mês é Valido")
+    console.log("fevereiro é um mês Valido")
 
     }else if(mes == "março"){
-      console.log("Este mês é Valido")
+      console.log("março é um mês Valido")
 
       }else if(mes == "abril"){
-        console.log("Este mês é Valido")
+        console.log("abril é um mês Valido")
 
         }else if(mes == "maio"){
-          console.log("Este mês é Valido")
+          console.log("maio é um mês Valido")
 
           }else if(mes == "junho"){
-            console.log("Este mês é Valido")
+            console.log("junho é um mês Valido")
 
             }else if(mes == "julho"){
-              console.log("Este mês é Valido")
+              console.log("julho é um mês Valido")
 
               }else if(mes == "agosto"){
-                console.log("Este mês é Valido")
+                console.log("agosto é um mês Valido")
 
                 }else if(mes == "setembro"){
-                  console.log("Este mês é Valido")
+                  console.log("setembro é um mês Valido")
 
                   }else if(mes == "outubro"){
-                    console.log("Este mês é Valido")
+                    console.log("outubro é um mês Valido")
 
                     }else if(mes == "novembro"){
-                      console.log("Este mês é Valido")
+                      console.log("novembro é um mês Valido")
 
                       }else if(mes == "dezembro"){
-                        console.log("Este mês é Valido")
+                        console.log("dezembro é um mês Valido")
 }else{
     console.log("Este mês não Existe, ou esta escrito errado !!!!!")
 }
